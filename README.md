@@ -879,9 +879,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 프로젝트 관련 문의사항이 있으시면 GitHub Issues를 통해 연락 주세요.
 
-* **GitHub Repository**: [https://github.com/your-username/PWD_MediaWeave](https://github.com/your-username/PWD_MediaWeave)
-* **Frontend Repository**: [https://github.com/your-username/PWD_MediaWeave_Client](https://github.com/your-username/PWD_MediaWeave_Client)
-* **Backend Repository**: [https://github.com/your-username/PWD_MediaWeave_Server](https://github.com/your-username/PWD_MediaWeave_Server)
+* **GitHub Repository**: [https://github.com/Edu-WD/PWD_MediaWeave](https://github.com/Edu-WD/PWD_MediaWeave)
+* **Frontend Repository**: [https://github.com/Edu-WD/MediaWeave_Client](https://github.com/Edu-WD/MediaWeave_Client)
+* **Backend Repository**: [https://github.com/Edu-WD/PWD_Week6-server](https://github.com/Edu-WD/PWD_Week6-server)
 
 ---
 
