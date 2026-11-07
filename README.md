@@ -881,8 +881,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * **GitHub Repository**: [https://github.com/Edu-WD/PWD_MediaWeave](https://github.com/Edu-WD/PWD_MediaWeave)
 * **Frontend Repository**: [https://github.com/Edu-WD/MediaWeave_Client](https://github.com/Edu-WD/MediaWeave_Client)
-* **Backend Repository**: [https://github.com/Edu-WD/PWD_Week6-server](https://github.com/Edu-WD/PWD_Week6-server)
-
+* **Backend Repository**: [https://github.com/Edu-WD/MediaWeave_Server](https://github.com/Edu-WD/MediaWeave_Server)
 ---
 
 ## **16. 감사의 말 (Acknowledgments)**
